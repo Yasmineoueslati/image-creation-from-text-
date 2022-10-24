@@ -4,7 +4,7 @@
 • Construction d'un modèle discriminateur (Discriminator model)
 • Développement d'un algorithme de training, qui crée les images, calcule la perte et ajuste les gradients.
 
-The notebook has 5 parts:
+# The notebook has 5 parts:
 <h3> - Data Pre-processing: </h3>
     - Converting the images into numpy arrays based on the pre-set pixel size and storing them.
     - Converting the image description into embeddings and storing them.
